@@ -1,0 +1,17 @@
+.DS_Store
+**/.DS_Store
+xcuserdata/
+**/xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+.env
+.env.*
+*.env
+*.pem
+*.key
+*.p12
+*.mobileprovision
+*Secrets*
+*Credentials*
+GoogleService-Info.plist
